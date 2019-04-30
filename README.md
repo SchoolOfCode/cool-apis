@@ -1,5 +1,15 @@
 # List of Cool APIs
 
+## Instructions
+
+Make a pull request and add to this list
+
+TODOs:
+- section list up based on topics
+- add descriptions?
+
+## List
+
 - https://core.telegram.org/
 - https://developer.ibm.com/ai/
 - https://stripe.com/gb
