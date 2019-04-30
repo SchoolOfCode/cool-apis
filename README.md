@@ -20,7 +20,7 @@
 - https://developers.facebook.com/docs/graph-api/
 - https://developers.google.com/apis-explorer/#p/
 - http://t2a.co/
-- https://developer.amazon.com/docs/alexa-voice-service/- get-started-with-alexa-voice-service.html
+- https://developer.amazon.com/docs/alexa-voice-service/get-started-with-alexa-voice-service.html
 - https://postcodes.io/
 - https://developers.google.com/actions/
 - https://developer.pandorabots.com/
@@ -30,7 +30,7 @@
 - https://www.mapbox.com/
 - https://developer.spotify.com/web-api/code-examples/ 
 - http://developer.mailchimp.com/documentation/mailchimp/
-- https://www.seedtechnologies.com/Services-Software-Development/- Third-Party-API-Integration
+- https://www.seedtechnologies.com/Services-Software-Development-Third-Party-API-Integration
 - https://developers.google.com/places/documentation/?csw=1
 - https://cloud.google.com/translate/docs/?csw=1
 - https://developers.google.com/maps/documentation/geocoding/start?csw=1
@@ -90,3 +90,4 @@
 - https://developers.google.com/fonts/
 - https://citymapper.com/api
 - https://data.police.uk/docs/
+  
