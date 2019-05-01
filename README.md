@@ -10,6 +10,7 @@ TODOs:
 
 ## List
 
+- https://firebase.google.com/
 - https://core.telegram.org/
 - https://developer.ibm.com/ai/
 - https://stripe.com/gb
